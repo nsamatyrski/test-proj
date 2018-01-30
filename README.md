@@ -1,3 +1,3 @@
 # test-proj
-This is a Test Proj.
+This is a Test Project.
 
